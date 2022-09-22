@@ -1,6 +1,33 @@
+body {
+    background-color:greenyellow;
+}
 h3{
     font-size: 50px;
 }
 h3{
     color: green;
 }
+    .list-1{
+        font-size: 25px;
+    }
+    .number-1{
+        background-color: blueviolet;
+    }
+    .number-1{
+        font-size: 25px;
+    }
+    #PREVAILER{
+        font-size: 25px;
+    }
+    .one{
+        color:blueviolet;
+    }
+    .pure{
+        color: blue;
+    }
+    .shadow{
+        text-shadow: 10px 15px 5 px red;
+    }
+    a {text-decoration:none ;
+    }
+    
